@@ -1,0 +1,22 @@
+h1{
+  text-indent: ; -2px;
+
+}
+
+div,
+article,
+section,
+header,
+footer,
+nav,
+figure,
+li{
+  position: relative;
+}
+
+aside.sidebar {
+  position: absolute;
+  top: 3% ; 
+  right: 0% ;
+  width: 27% ;
+}
